@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ejemplo - Content Provider</string>
+    <string name="recuperar">Recuperar contactos</string>
+    <string name="contactos">Contactos</string>
+    <string name="uri">URI: </string>
+</resources>
